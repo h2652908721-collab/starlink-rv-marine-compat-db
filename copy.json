@@ -1,0 +1,70 @@
+{
+  "brand": "StarRecipe",
+  "tagline": "Starlink setups for RV, marine & expedition vehicles",
+  "hero_headline": "Tired of tweaking your RV Starlink endlessly? Get tested configs that work first time.",
+  "hero_sub": "Real-world tested routers, mounts, and power setups with wiring guides. No wrong purchases. No guessing.",
+  "pains": [
+    "Buying wrong Starlink hardware is expensive: incompatible parts, frustrating installs, and lengthy returns waste time and money",
+    "Starlink doesn't document third-party gear. DIY bypass configs mean unstable speeds, power drain, and lost uptime",
+    "No standard specs for hardware choices. Every decision is a guess. Constant swapping = constant costs"
+  ],
+  "features": [
+    {
+      "title": "Compatibility Checker",
+      "desc": "Enter your router model and see what works instantly. Get full wiring diagrams and step-by-step setup."
+    },
+    {
+      "title": "Field-Tested Configs",
+      "desc": "Real rigs from RV, sailing, and expedition communities. Complete wiring maps and tuning guides included."
+    },
+    {
+      "title": "Performance Data",
+      "desc": "Real-world speed, power consumption, and uptime for every combo. Know exactly what you're buying."
+    },
+    {
+      "title": "Gear Recommendations",
+      "desc": "Curated bundles by use case. Compatibility guaranteed. Multi-vendor buying links in one place."
+    }
+  ],
+  "how": [
+    {
+      "step": "Pick Your Setup",
+      "desc": "RV, sailboat, or expedition? Choose your router and use case."
+    },
+    {
+      "step": "View Your Config",
+      "desc": "See compatible hardware, wiring, real speeds, and power draw instantly."
+    },
+    {
+      "step": "Install & Go",
+      "desc": "Follow step-by-step wiring, configure bypass mode, verify performance. Expert support on call."
+    }
+  ],
+  "proof": "Early beta users directly shape our roadmap—your field data drives what we build next",
+  "cta": "Join Beta",
+  "cta_sub": "Beta users get free library access and priority expert support",
+  "faq": [
+    {
+      "q": "Will my router model be in the database?",
+      "a": "We cover Starlink Gen2/Gen3 and major third-party hardware. Community adds new configs constantly. Can't find yours? Submit feedback or help us test it."
+    },
+    {
+      "q": "Where does the data come from? Can I trust it?",
+      "a": "All real-world tests from RV, sailing, and expedition communities. Every config traces back to the tester, hardware, conditions, and date. Transparent. Verifiable."
+    },
+    {
+      "q": "What if my install goes wrong?",
+      "a": "We connect you with pro installers for hands-on support. If a config has issues, we coordinate fixes and updates based on real user feedback."
+    }
+  ],
+  "seo_pages": [
+    "Is Starlink Gen3 Compatible with TP-Link Routers? RV Real-World Test Results",
+    "Best Starlink Mounts for Sailboats: Marine Tested Comparison",
+    "How to Enable Starlink Bypass Mode in RVs: Complete Setup Guide",
+    "Expedition Internet: 4 Starlink Setups Compared for Power Draw",
+    "Third-Party eSIM Routers with Starlink: Does It Actually Fix Dropouts?",
+    "Starlink Monthly Power Cost for RVs: Real Data from 8 Working Setups"
+  ],
+  "disclaimer": "⚠️ This tool is for reference only. Installation risks are yours to manage. For critical work, consult a professional technician.",
+  "lang": "en"
+}
